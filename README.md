@@ -30,6 +30,7 @@ A simple Flutter app that calculates Body Mass Index (BMI) based on user input f
 2. flutter pub get
 3. flutter run
 ```
+   ````
 ## Screenshots
 <img width="540" height="1080" alt="Screenshot_20250804_075919" src="https://github.com/user-attachments/assets/15b29530-e41d-4522-9206-92ff6b36508f" />
 <img width="540" height="1080" alt="Screenshot_20250804_075937" src="https://github.com/user-attachments/assets/931c0b71-aa8e-4f43-b14d-ca615c80bfec" />
