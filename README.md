@@ -2,8 +2,12 @@
 
 A simple Flutter app that calculates Body Mass Index (BMI) based on user input for height (in feet) and weight (in kilograms). The app provides instant visual feedback by changing the background color based on BMI status.
 ## Screenshots
-<img width="500" height="1000" alt="Screenshot_20250804_080423" src="https://github.com/user-attachments/assets/cfb4ebc9-c6a6-4898-82b7-8dae925be829" />
-<img width="500" height="1000" alt="Screenshot_20250804_080441" src="https://github.com/user-attachments/assets/795440e0-8b1e-43e1-9337-793910ccfb68" />
+<img width="610" height="1080" alt="Screenshot_20250804_075919" src="https://github.com/user-attachments/assets/15b29530-e41d-4522-9206-92ff6b36508f" />
+<img width="610" height="1080" alt="Screenshot_20250804_075937" src="https://github.com/user-attachments/assets/931c0b71-aa8e-4f43-b14d-ca615c80bfec" />
+<img width="610" height="1080" alt="Screenshot_20250804_080000" src="https://github.com/user-attachments/assets/e1037bfa-ff54-41a6-8ffe-4c22b285408f" />
+
+
+
 
 
 ## 🚀 Features
