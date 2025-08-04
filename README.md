@@ -26,7 +26,7 @@ A simple Flutter app that calculates Body Mass Index (BMI) based on user input f
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/vedant1780/bmi_calculator_app.git
+   git clone https://github.com/vedant1780/bmi_calculator.git
 2. flutter pub get
 3. flutter run
 ```
